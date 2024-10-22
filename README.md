@@ -1,2 +1,2 @@
 # Kompress-VST3-Juce
-Compress Audio
+Compress Audio v1.1
